@@ -23,6 +23,22 @@
     {
       "id": "3qyqj91",
       "name": "Ali"
+    },
+    {
+      "id": "g6n8emk",
+      "name": "Óscar"
+    },
+    {
+      "id": "44x2zpl",
+      "name": "Alfonso"
+    },
+    {
+      "id": "q94nor8",
+      "name": "Darío"
+    },
+    {
+      "id": "1nohqnm",
+      "name": "Ángel"
     }
   ],
   "spoken": [],
@@ -30,5 +46,5 @@
   "day": "2026-08-24",
   "round": 2,
   "lastClosed": null,
-  "updatedAt": 1787566206724
+  "updatedAt": 1787566218441
 }

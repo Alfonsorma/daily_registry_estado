@@ -41,15 +41,53 @@
       "name": "Ángel"
     }
   ],
-  "spoken": [],
-  "current": {
-    "id": "av6v5aj",
-    "since": 1787568336164
-  },
+  "spoken": [
+    {
+      "id": "av6v5aj",
+      "secs": 8
+    },
+    {
+      "id": "qqwadbd",
+      "secs": 1
+    },
+    {
+      "id": "ou48r4m",
+      "secs": 1
+    },
+    {
+      "id": "3qyqj91",
+      "secs": 1
+    },
+    {
+      "id": "g6n8emk",
+      "secs": 1
+    },
+    {
+      "id": "44x2zpl",
+      "secs": 0
+    },
+    {
+      "id": "q94nor8",
+      "secs": 1
+    },
+    {
+      "id": "1nohqnm",
+      "secs": 1
+    },
+    {
+      "id": "5cnxm7i",
+      "secs": 4
+    },
+    {
+      "id": "osdlnow",
+      "secs": 2
+    }
+  ],
+  "current": null,
   "day": "2026-08-24",
   "round": 3,
   "lastClosed": null,
-  "updatedAt": 1787568336164,
+  "updatedAt": 1787568360724,
   "anio": 2026,
   "skipped": []
 }

@@ -41,53 +41,79 @@
       "name": "Ángel"
     }
   ],
-  "spoken": [
-    {
-      "id": "av6v5aj",
-      "secs": 8
-    },
-    {
-      "id": "qqwadbd",
-      "secs": 1
-    },
-    {
-      "id": "ou48r4m",
-      "secs": 1
-    },
-    {
-      "id": "3qyqj91",
-      "secs": 1
-    },
-    {
-      "id": "g6n8emk",
-      "secs": 1
-    },
-    {
-      "id": "44x2zpl",
-      "secs": 0
-    },
-    {
-      "id": "q94nor8",
-      "secs": 1
-    },
-    {
-      "id": "1nohqnm",
-      "secs": 1
-    },
-    {
-      "id": "5cnxm7i",
-      "secs": 4
-    },
-    {
-      "id": "osdlnow",
-      "secs": 2
-    }
-  ],
+  "spoken": [],
   "current": null,
   "day": "2026-08-24",
-  "round": 3,
-  "lastClosed": null,
-  "updatedAt": 1787568360724,
+  "round": 4,
+  "lastClosed": {
+    "name": "Carlos Garrido",
+    "id": "osdlnow",
+    "day": "2026-08-24"
+  },
+  "updatedAt": 1787568373566,
   "anio": 2026,
-  "skipped": []
+  "skipped": [],
+  "history": [
+    {
+      "day": "2026-08-24",
+      "round": 3,
+      "year": 2026,
+      "month": "2026-08",
+      "week": "2026-W35",
+      "total": 20,
+      "stops": [
+        {
+          "id": "av6v5aj",
+          "name": "Carlos Fernández",
+          "secs": 8
+        },
+        {
+          "id": "qqwadbd",
+          "name": "Carlos Cepeda",
+          "secs": 1
+        },
+        {
+          "id": "ou48r4m",
+          "name": "Eze",
+          "secs": 1
+        },
+        {
+          "id": "3qyqj91",
+          "name": "Ali",
+          "secs": 1
+        },
+        {
+          "id": "g6n8emk",
+          "name": "Óscar",
+          "secs": 1
+        },
+        {
+          "id": "44x2zpl",
+          "name": "Alfonso",
+          "secs": 0
+        },
+        {
+          "id": "q94nor8",
+          "name": "Darío",
+          "secs": 1
+        },
+        {
+          "id": "1nohqnm",
+          "name": "Ángel",
+          "secs": 1
+        },
+        {
+          "id": "5cnxm7i",
+          "name": "Jesús",
+          "secs": 4
+        },
+        {
+          "id": "osdlnow",
+          "name": "Carlos Garrido",
+          "secs": 2
+        }
+      ],
+      "skipped": []
+    }
+  ]
 }

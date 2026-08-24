@@ -42,9 +42,14 @@
     }
   ],
   "spoken": [],
-  "current": null,
+  "current": {
+    "id": "av6v5aj",
+    "since": 1787568336164
+  },
   "day": "2026-08-24",
-  "round": 2,
+  "round": 3,
   "lastClosed": null,
-  "updatedAt": 1787566218441
+  "updatedAt": 1787568336164,
+  "anio": 2026,
+  "skipped": []
 }

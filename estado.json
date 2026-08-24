@@ -11,6 +11,10 @@
     {
       "id": "qqwadbd",
       "name": "Carlos Cepeda"
+    },
+    {
+      "id": "av6v5aj",
+      "name": "Carlos Fernández"
     }
   ],
   "spoken": [],
@@ -18,5 +22,5 @@
   "day": "2026-08-24",
   "round": 2,
   "lastClosed": null,
-  "updatedAt": 1787566183695
+  "updatedAt": 1787566198984
 }

@@ -1,9 +1,18 @@
 {
-  "people": [],
+  "people": [
+    {
+      "id": "osdlnow",
+      "name": "Carlos Garrido"
+    },
+    {
+      "id": "5cnxm7i",
+      "name": "Jesús"
+    }
+  ],
   "spoken": [],
   "current": null,
   "day": "2026-08-24",
   "round": 2,
   "lastClosed": null,
-  "updatedAt": 1787566149408
+  "updatedAt": 1787566178465
 }

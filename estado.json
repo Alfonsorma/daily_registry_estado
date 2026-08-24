@@ -15,6 +15,14 @@
     {
       "id": "av6v5aj",
       "name": "Carlos Fernández"
+    },
+    {
+      "id": "ou48r4m",
+      "name": "Eze"
+    },
+    {
+      "id": "3qyqj91",
+      "name": "Ali"
     }
   ],
   "spoken": [],
@@ -22,5 +30,5 @@
   "day": "2026-08-24",
   "round": 2,
   "lastClosed": null,
-  "updatedAt": 1787566198984
+  "updatedAt": 1787566206724
 }
